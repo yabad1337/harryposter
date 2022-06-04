@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harryposter/static/css/main.1075f668.css",
+    "main.js": "/harryposter/static/js/main.0ec6b8c3.js",
+    "static/js/787.30c01c5c.chunk.js": "/harryposter/static/js/787.30c01c5c.chunk.js",
+    "index.html": "/harryposter/index.html",
+    "main.1075f668.css.map": "/harryposter/static/css/main.1075f668.css.map",
+    "main.0ec6b8c3.js.map": "/harryposter/static/js/main.0ec6b8c3.js.map",
+    "787.30c01c5c.chunk.js.map": "/harryposter/static/js/787.30c01c5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1075f668.css",
+    "static/js/main.0ec6b8c3.js"
+  ]
+}
